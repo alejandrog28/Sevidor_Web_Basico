@@ -29,6 +29,7 @@
 
   Notas Adicionales:
   - En proxima revisión mejorar el diseño de la pagina web
+  - utilizar HTML5 y CSS
 */
 
 #if defined(ESP8266)
